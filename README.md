@@ -1,4 +1,11 @@
 ## Oiii! Eu sou a Antonia 👋
+
+- 📜 Procurando um estágio em programação
+- 📚 Atualmente estou estudando Python
+- 👩🏽‍💻 Estudante de Engenharia da Computação
+
+##
+
 <div align="center">
   <a href="https://github.com/antoniaalves0">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=antoniaalves0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
