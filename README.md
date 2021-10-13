@@ -8,7 +8,7 @@
   <img align="center" alt="Antonia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Antonia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Antonia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcapricho.abril.com.br%2Fcomportamento%2Fmulheres-na-programacao-html-e-a-linguagem-do-futuro%2F&psig=AOvVaw3eEZtrTdss38lwo--igrwP&ust=1634214705412000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNjzgbCyx_MCFQAAAAAdAAAAABAK">
+src="https://static.imasters.com.br/wp-content/uploads/2015/11/6_Barreira.gif">
 </div>
  
   ##
