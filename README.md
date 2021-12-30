@@ -1,7 +1,6 @@
 ## Oiii! Eu sou a Antonia 👋
 
 - 📜 Procurando um estágio em programação
-- 📚 Atualmente estou estudando Python
 - 👩🏽‍💻 Estudante de Engenharia da Computação
 
 ##
