@@ -1,6 +1,6 @@
 ## Oiii! Eu sou a Antonia 👋
 
-- 📜 Procurando um estágio em programação
+- 📜 Procurando um estágio na área de TI
 - 👩🏽‍💻 Estudante de Engenharia da Computação
 
 ##
