@@ -14,7 +14,7 @@
   <img align="center" alt="Antonia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Antonia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Antonia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Antonia-pic" height="150" style="border-radius:50px;" src="http://dilemasdaivana.com.br/wp-content/uploads/2017/10/giphy-8.gif">
+  <img align="right" alt="Antonia-pic" height="150" style="border-radius:50px;" src="https://super.abril.com.br/wp-content/uploads/2016/12/dog-tra.gif">
 </div>
 
   ##
