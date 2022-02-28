@@ -1,7 +1,7 @@
 ## Oiii! Eu sou a Antonia 👋
 
 - 📜 Procurando um estágio na área de TI
-- 👩🏽‍💻 Estudante de Engenharia da Computação
+- 👩🏽‍💻 Cursando 3° semestre de Engenharia da Computação
 
 ##
 
