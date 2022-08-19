@@ -1,6 +1,6 @@
 ## Oiii! Eu sou a Antonia 👋
 
-- 👩🏽‍💻 Cursando 4° semestre de Engenharia da Computação
+- 👩🏽‍💻 Estudante de Engenharia da Computação
 
 ##
 
