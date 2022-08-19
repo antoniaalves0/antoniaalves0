@@ -12,7 +12,7 @@
 <div style="display: inline_block"><br>
 
   
-  <img align="right" alt="Antonia-pic" height="150" style="border-radius:50px;" src="https://super.abril.com.br/wp-content/uploads/2016/12/dog-tra.gif">
+  <img align="right" alt="Antonia-pic" height="150" style="border-radius:50px;" src="https://camo.githubusercontent.com/43c26cf892630dac3a0b25a19871b27dae39f9134e2b82d0f026e8707938721f/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6d4e77724268656a6b4b394546503530342f67697068792e676966">
 </div>
 
   ##
