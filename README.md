@@ -1,6 +1,6 @@
 ## Oiii! Eu sou a Antonia 👋
 
-- 👩🏽‍💻 Estudante de Engenharia da Computação
+- 💻⚙ Estudante de Engenharia da Computação 4/10
 
 ##
 
